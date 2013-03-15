@@ -1,0 +1,13 @@
+{
+    "name": "biggins/sub-query",
+    "description": "CakePHP plugin which allows for easy use of subqueries",
+    "authors": [
+        {
+            "name": "Sam Biggins",
+            "email": "sam@evoluted.net"
+        }
+    ],
+    "require": {
+
+    }
+}
